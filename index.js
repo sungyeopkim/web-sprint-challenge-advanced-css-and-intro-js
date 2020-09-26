@@ -254,12 +254,6 @@ return console.log(filteredArray);
 get20s(artists);
 
 
-get20s(artists, "1907 - 1954");
-
-function get20s(array) {
-
-}
-
 
 /* Task 5: Create a function called `removeArtist` that takes two arguments:
 *     (1) artists array
